@@ -1,0 +1,51 @@
+[
+    
+    {
+        "id": 1,
+        "price":190,
+        "name":"Car Repair",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, praesentium.",
+        "img":"https://i.ibb.co/P5kmjVB/1.jpg"
+
+    },
+    {
+        "id": 2,
+        "price":100,
+        "name":"Car Wash",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, praesentium.",
+        "img":"https://i.ibb.co/0m4Djdw/2.jpg"
+
+    },
+    {
+        "id": 3,
+        "price":210,
+        "name":"Engine Expert",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, praesentium.",
+        "img":"https://i.ibb.co/qsZBmLT/3.jpg"
+
+    },
+    {
+        "id": 4,
+        "price":150,
+        "name":"Stearing Repair",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, praesentium.",
+        "img":"https://i.ibb.co/28TsQyr/4.jpg"
+
+    },
+    {
+        "id": 5,
+        "price":160,
+        "name":"Bumper Repair",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, praesentium.",
+        "img":"https://i.ibb.co/WKLzt1L/5.jpg"
+
+    },
+    {
+        "id": 6,
+        "price":300,
+        "name":"Top Service",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, praesentium.",
+        "img":"https://i.ibb.co/hy21wvL/6.jpg"
+
+    }
+]
